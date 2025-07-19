@@ -30,7 +30,6 @@
 
 ``
 git clone https://github.com/makfwet/proxy_family_api
-cd proxy_family_api
 ``
 
 Запускаем run.bat
