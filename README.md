@@ -37,7 +37,9 @@ cd proxy_family_api
 
 # Если вы не устанавливали git:
 
-Скачиваем репозиторий, распаковываем.
+Скачиваем репозиторий в виде архива, распаковываем.
+
+![Инструкция по загрузке архива](https://github-production-user-asset-6210df.s3.amazonaws.com/199893874/468250475-aa743af9-4a64-40c5-a8ca-50e874a3ef97.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250719%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250719T032706Z&X-Amz-Expires=300&X-Amz-Signature=e474304f77ac9a4b4689922c62d650ddce7c7719357de5d68e5a20f45e9775aa&X-Amz-SignedHeaders=host)
 
 Запускаем run.bat
 
